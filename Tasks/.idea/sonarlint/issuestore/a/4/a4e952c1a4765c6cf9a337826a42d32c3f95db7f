@@ -1,0 +1,17 @@
+
+™
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿJ$9e433dbd-27a9-48f8-ac33-888cc6e897c5
+›
+java:S1104"ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(ÚÄ±íÿÿÿÿÿJ$a24d0ebc-580a-44c7-990d-4707fbcfaf89
+s
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿJ$c484e2ee-ca15-4d01-b9e5-2dd38931c1b3
+u
+java:S1444"4Make this "public static savedTasksFile" field final(ÚÄ±íÿÿÿÿÿJ$c688d3ef-e4c4-40cd-9d88-156791e1a184
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù‰ï…J$426d365a-00de-481d-bd45-9f10546c237d
+•	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ðÕÈ€J$c61af97e-64ba-4c11-9f61-93c781a12306
+|	java:S125"<This block of commented-out lines of code should be removed.(é±¨ãÿÿÿÿÿJ$26925f61-aa04-4e29-95fc-52db6d55daed
+w	java:S125*"<This block of commented-out lines of code should be removed.(€â³ÖJ$cf39a316-1893-4cdc-80de-3f1c7a58deaf
+h
+java:S16029",Remove useless curly braces around statement(çöÔˆJ$acbd1df0-3852-4b98-ba10-db7f45db8f37
+p
+java:S1068"/Remove this unused "classLoader" private field.(ý¢°ØþÿÿÿÿJ$e011bfb4-ad20-40b3-b81b-f2418e1c78bd

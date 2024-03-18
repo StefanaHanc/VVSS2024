@@ -1,0 +1,27 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$Tasks/src/main/java/module-info.java,3\3\336afcfc2311d63b383fc63aac4026da42d65735
+R
+"Tasks/src/main/java/tasks/App.java,c\f\cff4e0917cf79bb0505e3622c97e1662cf1e0a0a
+X
+(Tasks/src/main/java/tasks/view/Main.java,3\e\3ec9e0e364fbdaf332ec28e3d1c4ebef678a60bb
+c
+3Tasks/src/main/java/tasks/services/DateService.java,a\6\a64889af9e7fc44a34205f7d78318bed9d1c95cb
+^
+.Tasks/src/main/java/tasks/services/TaskIO.java,8\2\82640d78d7c32d38eeb708f74ca161d16fd3f844
+d
+4Tasks/src/main/java/tasks/services/TasksService.java,d\d\dd44dd3206376863f8bf1a026487d17394e5c89b
+]
+-Tasks/src/main/java/tasks/model/TaskList.java,8\7\87982f488f345e1914ea4cabf9179351fadd6932
+d
+4Tasks/src/main/java/tasks/model/TasksOperations.java,e\d\eded1d4833f4b293e91e20c92561c1717c594294
+b
+2Tasks/src/main/java/tasks/model/ArrayTaskList.java,4\7\47fa8f053a2e0a5c66026f2ad0d58028769feb40
+d
+4Tasks/src/main/java/tasks/controller/Controller.java,4\4\44e338e95c4b0fcfe255e47e96e9c615ac376d97
+k
+;Tasks/src/main/java/tasks/controller/NewEditController.java,d\a\da88ae7dd795003744029797436853f8be0dd979
+l
+<Tasks/src/main/java/tasks/controller/TaskInfoController.java,1\c\1ca63f85d4764fa2be2835695d7e5b8d76d9ddb9

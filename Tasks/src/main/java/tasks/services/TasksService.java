@@ -37,7 +37,10 @@ public class TasksService {
         return sb.toString();
     }
 
-    public int parseFromStringToSeconds(String stringTime){//hh:MM
+    public int parseFromStringToSeconds(String stringTime){//hh:MM 00:00 ...23:59
+        // BVA
+        // 23:60, 24:00, -> nevalide
+        // 00:00, 23:59  -> valide   [00" 59], [0, 23]
         String[] units = stringTime.split(":");
         int hours = Integer.parseInt(units[0]);
         int minutes = Integer.parseInt(units[1]);

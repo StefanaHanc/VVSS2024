@@ -26,6 +26,13 @@ public class DateService {
         Instant instant = Instant.from(localDate.atStartOfDay(ZoneId.systemDefault()));
         return Date.from(instant);
     }
+
+
+    // conditii
+    // time = hh:mm
+    // 0 <= hh <= 23, 0 <= mm <= 59
+    // date = yyyy-MM-dd
+    // yyyy > 0, 1 <= MM < 12, 1 <= dd <= 31
     public Date getDateMergedWithTime(String time, Date noTimeDate) {//to retrieve Date object from both DatePicker and time field
         String[] units = time.split(":");
         int hour = Integer.parseInt(units[0]);

@@ -73,7 +73,6 @@ class DateServiceTest {
         /// arrange
         String time = "24:00";
         Date noTimeDate = formatter.parse("2023-05-31");
-
         // act && assert
         assertThrows(IllegalArgumentException.class, () -> dateService.getDateMergedWithTime(time, noTimeDate));
     }
